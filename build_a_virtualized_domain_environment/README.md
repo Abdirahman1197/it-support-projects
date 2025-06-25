@@ -63,11 +63,7 @@ The project includes:
 
 ## 📸 Screenshots (Optional)
 
-> You can include screenshots of:
-> - Server Manager roles
-> - DHCP scope settings
-> - ADUC showing OUs and users
-> - Command prompt verifying domain join and IP address
+
 
 ---
 
