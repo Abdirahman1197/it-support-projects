@@ -61,7 +61,7 @@ The project includes:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 
 
